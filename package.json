@@ -37,7 +37,7 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "bleno": "^0.5.0",
+    "bleno": "abandonware/bleno#master",
     "eddystone-url-encoding": "^1.0.1"
   },
   "devDependencies": {
